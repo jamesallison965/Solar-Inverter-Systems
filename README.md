@@ -29,6 +29,7 @@ You can also take control manually if you want.
 ## 🛠 Built With
 
 - PHP (just one file: `index.php`)
+- CSS
 
 ---
 
